@@ -1,8 +1,8 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,50:2d1b69,100:0d0d2b&height=220&section=header&text=✦%20Mutia%20Syahra%20✦&fontSize=52&fontColor=e8b4f8&animation=twinkling&fontAlignY=45" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,50:2d1b69,100:0d0d2b&height=220&section=header&text=Mutia%20Syahra&fontSize=52&fontColor=e8b4f8&animation=twinkling&fontAlignY=45" />
 <br/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=web+development+enthusiast+✨;laravel+%2F+js+%2F+python;always+learning%2C+always+growing+🌱;open+to+internship%2Fjob+opportunities!+˚₊·➳❥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=web%20development%20enthusiast;laravel%20%2F%20js%20%2F%20python;always%20learning%2C%20always%20growing;open%20to%20internship%20jobs" alt="Typing SVG" />
 </a>
 </div>
 
@@ -54,21 +54,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutiasyahra&theme=transparent&hide_border=true&ring=6366F1&fire=EC4899&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mutiasyahra&bg_color=ffffff00&color=333333&line=6366F1&point=EC4899&hide_border=true&hide_title=true&area=true" alt="Contribution Graph" width="98%" />
-</p>
-
 <br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=100&section=footer" width="100%" />
 </p>
-
-<!--
-CATATAN SEBELUM DIPAKAI:
-
-1. Ganti "mutiasyahra" di semua link jika username GitHub kamu berbeda.
-2. Ganti tanda "#" di Portfolio/LinkedIn/Email dengan link asli kamu.
-3. Nama di banner sudah disamakan jadi "Mutia Syahra" (sebelumnya sempat tertulis "Meutya" - typo).
-4. Sudah dihapus 1 typing effect yang dobel, sekarang cuma 1 di bagian atas.
--->
