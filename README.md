@@ -1,8 +1,14 @@
 <div align="center">
-<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:3d1278,100:7c3aed&height=280&section=header&text=mutia%20syahra&fontSize=72&fontColor=f0abfc&animation=fadeIn&fontAlignY=40&desc=✦%20web%20developer%20·%20creative%20coder%20·%20lifelong%20learner%20✦&descAlignY=62&descSize=18&descColor=c084fc" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:3d1278,100:7c3aed&height=250&section=header&text=mutia%20syahra&fontSize=64&fontColor=f0abfc&animation=fadeIn&fontAlignY=40&desc=✦%20web%20developer%20·%20creative%20coder%20·%20lifelong%20learner%20✦&descAlignY=65&descSize=16&descColor=c084fc" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,50:2d1b69,100:0d0d2b&height=220&section=header&text=✦%20Meutya%20Syahra%20✦&fontSize=52&fontColor=e8b4f8&animation=twinkling&fontAlignY=45" />
+
 <br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=building+cool+web+things+✨;laravel+%2F+js+%2F+python+dev;always+learning%2C+always+growing+🌱;open+to+collaborate!+˚₊·➳❥" alt="Typing SVG" />
+</a>
+
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+clean+and+functional+web+apps;Laravel+%7C+JavaScript+%7C+Python+%7C+MySQL;Always+learning%2C+always+building" alt="Typing SVG" />
@@ -56,12 +62,12 @@ fun_fact: Always down to learn something new in tech
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutiasyahra&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutiasyahra&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mutiasyahra&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=EC4899&text_color=333333" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutiasyahra&theme=transparent&hide_border=true&ring=6366F1&fire=EC4899&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mutiasyahra&theme=tokyo-night&hide_border=true&hide_title=true&area=true" alt="Contribution Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mutiasyahra&bg_color=ffffff00&color=333333&line=6366F1&point=EC4899&hide_border=true&hide_title=true&area=true" alt="Contribution Graph" width="98%" />
 </p>
 
 <br>
@@ -69,3 +75,12 @@ fun_fact: Always down to learn something new in tech
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=100&section=footer" width="100%" />
 </p>
+
+<!--
+CATATAN SEBELUM DIPAKAI:
+
+1. Ganti "mutiasyahra" di semua link jika username GitHub kamu berbeda.
+2. Ganti tanda "#" di Portfolio/LinkedIn/Email dengan link asli kamu.
+3. Semua statistik pakai tema "tokyonight" (biru gelap-ungu) biar seragam dan lebih modern - bisa diganti tema lain: dracula, radical, merko, gruvbox, dll (tinggal ganti nama theme di link-nya).
+4. Bagian "Profile Views" dan "Followers" otomatis update sendiri, nggak perlu setting tambahan.
+-->
