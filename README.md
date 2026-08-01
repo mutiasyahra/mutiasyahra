@@ -4,27 +4,27 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=building+cool+web+things+✨;laravel+%2F+js+%2F+python+dev;always+learning%2C+always+growing+🌱;open+to+collaborate!+˚₊·%20➳❥" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=building+cool+web+things+✨;laravel+%2F+js+%2F+python+dev;always+learning%2C+always+growing+🌱;open+to+collaborate!+˚₊·➳❥" alt="Typing SVG" />
+</a>
 
 </div>
+
+<br/>
 
 ---
 
 ## ✦ about me
 
-```
-  ┌──────────────────────────────────────────────────────┐
-  │                                                      │
-  │   hey! i'm mutia — a web developer from Indonesia   │
-  │   who enjoys turning ideas into real web apps (˶ᵔᵕᵔ˶)│
-  │                                                      │
-  │   🎓  Informatics Engineering student               │
-  │   💻  Focused on Laravel & JavaScript               │
-  │   🌱  Currently exploring Python & Data Analytics   │
-  │   ✨  Love clean UI, clean code, and good coffee ☕  │
-  │                                                      │
-  └──────────────────────────────────────────────────────┘
-```
+**hey! i'm mutia** - a web developer from Indonesia who enjoys turning ideas into real, working web apps ᰔᩚ
+
+- 🎓 &nbsp; Informatics Engineering student
+- 💻 &nbsp; Focused on **Laravel** & **JavaScript**
+- 🌱 &nbsp; Exploring **Python** & Data Analytics
+- ✨ &nbsp; Love clean UI, clean code, and good coffee ☕
+- 🤝 &nbsp; Open to collaborate & learn together!
+
+<br clear="right"/>
 
 ---
 
@@ -32,41 +32,21 @@
 
 <div align="center">
 
-**frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**backend & database**
-
-![PHP](https://img.shields.io/badge/PHP-7E57C2?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,python,mysql,git,github,vscode&theme=dark&perline=11" />
+</p>
 
 </div>
 
 ---
 
-## ✦ what i'm working on
+## ✦ currently
 
-```
-  ┌──────────────────────────────────────────────────────┐
-  │                                                      │
-  │   🔨  Laravel-based web application                 │
-  │   📖  Deepening JavaScript skills                   │
-  │   🐍  Learning Python for Data Analytics            │
-  │                                                      │
-  └──────────────────────────────────────────────────────┘
-```
+> 🔨 &nbsp; Building a **Laravel-based web application**
+>
+> 📖 &nbsp; Deepening my **JavaScript** skills
+>
+> 🐍 &nbsp; Learning **Python** for Data Analytics
 
 ---
 
@@ -74,22 +54,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mutiasyahra&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10&custom_title=stats" height="170"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mutiasyahra&theme=midnight-purple&hide_border=true&border_radius=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mutiasyahra&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&custom_title=✦%20github%20stats&include_all_commits=true&count_private=true" height="175" />
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=mutiasyahra&theme=midnight-purple&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" height="175" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutiasyahra&layout=donut&theme=midnight-purple&hide_border=true&border_radius=10&custom_title=languages" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutiasyahra&layout=donut&theme=midnight-purple&hide_border=true&border_radius=12&custom_title=✦%20top%20languages&langs_count=8" height="210" />
 
-</div>
-
----
-
-## ✦ trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mutiasyahra&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -97,7 +69,9 @@
 ## ✦ contribution graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mutiasyahra&theme=tokyo-night&hide_border=true&custom_title=contribution%20graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mutiasyahra&theme=tokyo-night&hide_border=true&area=true&custom_title=✦%20contribution%20graph&point=e879f9&line=a855f7&color=e8b4f8&area_color=a855f7" width="100%" />
+
 </div>
 
 ---
