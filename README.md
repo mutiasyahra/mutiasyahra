@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,50:2d1b69,100:0d0d2b&height=220&section=header&text=Mutia%20Syahra&fontSize=52&fontColor=e8b4f8&animation=twinkling&fontAlignY=45" />
 <br/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=web%20development%20enthusiast;laravel%20%2F%20js%20%2F%20python;always%20learning%2C%20always%20growing;open%20to%20internship%20jobs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=laravel%20%2F%20js%20%2F%20python;always%20learning%2C%20always%20growing;open%20to%20collaborate" alt="Typing SVG" />
 </a>
 </div>
 
@@ -23,13 +23,14 @@
 
 ## ✦ about me
 
-**hey! i'm mutia**, a web development enthusiast from Indonesia who enjoys turning ideas into real, working web apps ᰔᩚ
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 &nbsp; Informatics Engineering student
+**hey! i'm mutia**, someone from Indonesia who enjoys turning ideas into real, working web apps ᰔᩚ
+
 - 💻 &nbsp; Focused on **Laravel** & **JavaScript**
 - 🌱 &nbsp; Exploring **Python** & Data Analytics
 - ✨ &nbsp; Love clean UI, clean code, and good coffee ☕
-- 🤝 &nbsp; Open to internship / job opportunities & collaboration!
+- 🤝 &nbsp; Open to collaborate & learn together!
 
 <br clear="right"/>
 
@@ -48,13 +49,15 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mutiasyahra&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=EC4899&text_color=333333" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutiasyahra&theme=transparent&hide_border=true&ring=6366F1&fire=EC4899&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
 </p>
 
-<br>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mutiasyahra&bg_color=ffffff00&color=333333&line=6366F1&point=EC4899&hide_border=true&hide_title=true&area=true" alt="Contribution Graph" width="98%" />
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=100&section=footer" width="100%" />
