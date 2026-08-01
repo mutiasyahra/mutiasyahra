@@ -1,38 +1,44 @@
 <div align="center">
 
-<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:3d1278,100:7c3aed&height=250&section=header&text=mutia%20syahra&fontSize=64&fontColor=f0abfc&animation=fadeIn&fontAlignY=40&desc=✦%20web%20developer%20·%20creative%20coder%20·%20lifelong%20learner%20✦&descAlignY=65&descSize=16&descColor=c084fc" />
+<!-- ═══════════════ HEADER BANNER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:2a0845,60:5b146f,100:ec4899&height=260&section=header&text=mutia%20syahra&fontSize=68&fontColor=fbcfe8&animation=fadeIn&fontAlignY=40&desc=🌸%20Web%20Developer%20·%20UI/UX%20Enthusiast%20·%20Informatics%20Engineering%20🌸&descAlignY=65&descSize=16&descColor=f472b6" />
 
 <br/>
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E879F9&center=true&vCenter=true&width=650&height=50&lines=🌸+building+cool+things+with+code;⚡+Laravel+%7C+JavaScript+%7C+Python+dev;🎨+clean+UI+%2B+clean+code+%3D+happy+me;🌱+always+learning%2C+always+growing;✨+open+to+collaborate+%26+create!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&width=650&height=50&lines=🌸+building+aesthetic+%26+functional+web+apps;⚡+Laravel+%7C+JavaScript+%7C+Python+dev;🎨+clean+UI+%2B+clean+code+%3D+happy+me;🌱+always+learning%2C+always+growing;✨+open+to+collaborate+%26+create!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
-<a href="https://linkedin.com/in/mutiasyahra">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://mutiasyahra.github.io/portofolio">
-  <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:mutiasyahra@email.com">
-  <img src="https://img.shields.io/badge/Email-e879f9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=mutiasyahra&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<!-- ═══════════════ QUICK BADGES / LINKS ═══════════════ -->
+<p>
+  🌸 <b>Web Developer</b> &nbsp;|&nbsp; 🎀 <b>Laravel & JS</b> &nbsp;|&nbsp; ☕ <b>Coffee & Code</b>
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/mutiasyahra">
+    <img src="https://img.shields.io/badge/LinkedIn-ec4899?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://mutiasyahra.github.io/portofolio">
+    <img src="https://img.shields.io/badge/Portfolio-f472b6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mutiasyahra@email.com">
+    <img src="https://img.shields.io/badge/Email-fb7185?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mutiasyahra&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS"/>
+</p>
 
 </div>
 
 ---
 
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
-<img align="right" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🌸 about me
 
@@ -41,21 +47,20 @@ const mutia = {
   name     : "Mutia Syahra",
   role     : "Web Developer",
   origin   : "🇮🇩 Indonesia",
-  education: "Informatics Engineering",
+  education: "Informatics Engineering Student",
 
-  stack: {
-    frontend : ["HTML", "CSS", "JavaScript"],
-    backend  : ["Laravel", "PHP"],
+  techStack: {
+    frontend : ["HTML5", "CSS3", "JavaScript"],
+    backend  : ["PHP", "Laravel"],
     learning : ["Python", "Data Analytics"],
   },
 
-  currentlyDoing: [
-    "🔨 Building Laravel web apps",
-    "📊 Exploring Data Analytics",
-    "☕ Fueled by coffee",
+  currentlyBuilding: [
+    "🎀 Laravel Web Applications",
+    "📊 Data Analytics Projects with Python",
   ],
 
-  motto: "Clean code · Clean UI · Great coffee ☕",
+  motto: "Clean UI · Clean Code · Coffee & Creativity ☕✨",
 };
 ```
 
@@ -82,24 +87,43 @@ const mutia = {
 
 ---
 
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
-## 📊 github stats
+<!-- ═══════════════ GITHUB STATISTICS ═══════════════ -->
+## 📊 github statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=mutiasyahra&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="175"/>
+<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=mutiasyahra&show_icons=true&theme=rose_pine&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&bg_color=0d0221&title_color=f472b6&icon_color=ec4899&text_color=fbcfe8" height="175"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=mutiasyahra&theme=midnight-purple&hide_border=true&border_radius=15" height="175"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=mutiasyahra&layout=donut&theme=midnight-purple&hide_border=true&border_radius=15&langs_count=8" height="200"/>
+<img src="https://streak-stats.demolab.com/?user=mutiasyahra&theme=dark&hide_border=true&border_radius=15&background=0d0221&stroke=ec4899&ring=f472b6&fire=ec4899&currStreakLabel=f472b6&sideLabels=fbcfe8&dates=fbcfe8" height="175"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════ TROPHIES ═══════════════ -->
+<!-- ═══════════════ GIRLY CONTRIBUTION ACTIVITY GRAPH (LINE/AREA CHART) ═══════════════ -->
+## 📈 contribution graph
+
+<div align="center">
+
+<!-- Monthly / Continuous Activity Line Graph in Girly Pastel Pink Palette -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mutiasyahra&bg_color=0d0221&color=f472b6&line=ec4899&point=f472b6&area=true&area_color=4a044e&hide_border=true&custom_title=🌸%20Mutia%20Syahra's%20Contribution%20Graph" width="100%" />
+
+</div>
+
+---
+
+<!-- ═══════════════ TOP LANGUAGES ═══════════════ -->
+## 🌐 top languages
+
+<div align="center">
+
+<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=mutiasyahra&layout=donut&theme=rose_pine&hide_border=true&border_radius=15&langs_count=8&bg_color=0d0221&title_color=f472b6&text_color=fbcfe8" height="200"/>
+
+</div>
+
+---
+
+<!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
 ## 🏆 achievements
 
 <div align="center">
@@ -110,33 +134,7 @@ const mutia = {
 
 ---
 
-<!-- ═══════════════ CONTRIBUTION GRAPH ═══════════════ -->
-## 📈 contribution graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mutiasyahra&theme=tokyo-night&hide_border=true&area=true&color=c084fc&area_color=3d1278&bg_color=0d0221" width="100%"/>
-
-</div>
-
----
-
-<!-- ═══════════════ SNAKE ANIMATION ═══════════════ -->
-## 🐍 contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mutiasyahra/mutiasyahra/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mutiasyahra/mutiasyahra/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mutiasyahra/mutiasyahra/output/github-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-<!-- ═══════════════ QUOTE ═══════════════ -->
+<!-- ═══════════════ QUOTE OF THE DAY ═══════════════ -->
 ## 💬 quote of the day
 
 <div align="center">
@@ -150,9 +148,9 @@ const mutia = {
 <!-- ═══════════════ FOOTER ═══════════════ -->
 <div align="center">
 
-*thanks for stopping by! (˶ᵔᵕᵔ˶) — feel free to reach out anytime! 🌸*
+*thanks for visiting! (˶ᵔᵕᵔ˶) — feel free to connect anytime! 🌸*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:3d1278,100:0d0221&height=140&section=footer&text=let's%20build%20something%20amazing%20together%20✨&fontSize=20&fontColor=c084fc&animation=twinkling&fontAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:5b146f,100:0d0221&height=140&section=footer&text=let's%20build%20something%20pretty%20%26%20amazing%20together%20✨&fontSize=20&fontColor=fbcfe8&animation=twinkling&fontAlignY=50" />
 
 </div>
 
@@ -160,13 +158,8 @@ const mutia = {
 ═══════════════════════════════════════════
   📌 SETUP REMINDER
 ═══════════════════════════════════════════
-  Ganti link berikut sesuai datamu:
-  · LinkedIn  → https://linkedin.com/in/[username-linkedin]
-  · Portfolio → https://[url-portfolio-kamu]
-  · Email     → mailto:[email-kamu]
-
-  Snake animation setup:
-  Buat file .github/workflows/snake.yml
-  Referensi: https://github.com/Platane/snk
+  - LinkedIn  → https://linkedin.com/in/[username]
+  - Portfolio → https://[url-portfolio]
+  - Email     → mailto:[email]
 ═══════════════════════════════════════════
 -->
