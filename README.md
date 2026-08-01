@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:3d1278,100:7c3aed&height=280&section=header&text=mutia%20syahra&fontSize=72&fontColor=f0abfc&animation=fadeIn&fontAlignY=40&desc=✦%20web%20developer%20·%20creative%20coder%20·%20lifelong%20learner%20✦&descAlignY=62&descSize=18&descColor=c084fc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:3d1278,100:7c3aed&height=250&section=header&text=mutia%20syahra&fontSize=64&fontColor=f0abfc&animation=fadeIn&fontAlignY=40&desc=✦%20web%20developer%20·%20creative%20coder%20·%20lifelong%20learner%20✦&descAlignY=65&descSize=16&descColor=c084fc" />
 
 <br/>
 
@@ -87,13 +87,13 @@ const mutia = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mutiasyahra&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15&custom_title=📈%20GitHub%20Stats&include_all_commits=true&count_private=true&bg_color=0d0221&title_color=f0abfc&icon_color=c084fc&text_color=e2d9f3" height="175"/>
+<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=mutiasyahra&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="175"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=mutiasyahra&theme=midnight-purple&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&background=0d0221&stroke=7c3aed&ring=e879f9&fire=f0abfc&currStreakLabel=c084fc" height="175"/>
+<img src="https://streak-stats.demolab.com/?user=mutiasyahra&theme=midnight-purple&hide_border=true&border_radius=15" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutiasyahra&layout=donut-vertical&theme=midnight-purple&hide_border=true&border_radius=15&custom_title=🌐%20Top%20Languages&langs_count=8&bg_color=0d0221&title_color=f0abfc&text_color=e2d9f3" height="230"/>
+<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=mutiasyahra&layout=donut&theme=midnight-purple&hide_border=true&border_radius=15&langs_count=8" height="200"/>
 
 </div>
 
@@ -104,7 +104,7 @@ const mutia = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mutiasyahra&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=mutiasyahra&theme=discord&no-frame=true&no-bg=true" width="100%"/>
 
 </div>
 
@@ -115,7 +115,7 @@ const mutia = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mutiasyahra&theme=tokyo-night&hide_border=true&area=true&custom_title=✦%20Contribution%20Graph&point=f0abfc&line=7c3aed&color=c084fc&area_color=3d1278&bg_color=0d0221" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mutiasyahra&theme=tokyo-night&hide_border=true&area=true&color=c084fc&area_color=3d1278&bg_color=0d0221" width="100%"/>
 
 </div>
 
