@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,50:2d1b69,100:0d0d2b&height=220&section=header&text=Mutia%20Syahra&fontSize=52&fontColor=e8b4f8&animation=twinkling&fontAlignY=52" />
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,50:2d1b69,100:0d0d2b&height=220&section=header&text=Mutia%20Syahra&fontSize=52&fontColor=e8b4f8&animation=twinkling&fontAlignY=100" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=laravel%20%2F%20js%20%2F%20python;always%20learning%2C%20always%20growing;open%20to%20collaborate" alt="Typing SVG" />
@@ -53,7 +51,6 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutiasyahra&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=EC4899&text_color=333333" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutiasyahra&theme=transparent&hide_border=true&ring=6366F1&fire=EC4899&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
 </p>
 
