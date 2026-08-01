@@ -9,9 +9,9 @@
 </div>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=todoist&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portofolio-meutya-syahra.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/meutya-syahra-881030268/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mutiasyahra16@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
