@@ -23,8 +23,6 @@
 
 ## ✦ about me
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 **hey! i'm mutia**, a web development enthusiast from Indonesia who enjoys turning ideas into real, working web apps ᰔᩚ
 
 - 🎓 &nbsp; Informatics Engineering student
@@ -50,11 +48,13 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutiasyahra&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=EC4899&text_color=333333" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutiasyahra&theme=transparent&hide_border=true&ring=6366F1&fire=EC4899&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
 </p>
 
 <br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mutiasyahra&bg_color=ffffff00&color=333333&line=6366F1&point=EC4899&hide_border=true&hide_title=true&area=true" alt="Contribution Graph" width="98%" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=100&section=footer" width="100%" />
