@@ -1,18 +1,10 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,50:2d1b69,100:0d0d2b&height=220&section=header&text=✦%20Meutya%20Syahra%20✦&fontSize=52&fontColor=e8b4f8&animation=twinkling&fontAlignY=45" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,50:2d1b69,100:0d0d2b&height=220&section=header&text=✦%20Mutia%20Syahra%20✦&fontSize=52&fontColor=e8b4f8&animation=twinkling&fontAlignY=45" />
 <br/>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=building+cool+web+things+✨;laravel+%2F+js+%2F+python+dev;always+learning%2C+always+growing+🌱;open+to+collaborate!+˚₊·➳❥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=web+development+enthusiast+✨;laravel+%2F+js+%2F+python;always+learning%2C+always+growing+🌱;open+to+internship%2Fjob+opportunities!+˚₊·➳❥" alt="Typing SVG" />
 </a>
-
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+clean+and+functional+web+apps;Laravel+%7C+JavaScript+%7C+Python+%7C+MySQL;Always+learning%2C+always+building" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=todoist&logoColor=white" /></a>
@@ -25,37 +17,33 @@
   <img src="https://img.shields.io/github/followers/mutiasyahra?label=Followers&style=flat&color=EC4899" />
 </p>
 
-<br>
+<br/>
 
-### ✨ About Me
+---
 
-```yaml
-name: Mutia Syahra
-role: Web Developer
-focus: Building full-stack web applications
-currently_building: A Laravel-based project with clean, functional UI
-stack: [Laravel, JavaScript, Python, MySQL]
-fun_fact: Always down to learn something new in tech
-```
+## ✦ about me
 
-<br>
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🛠️ Tech Stack
+**hey! i'm mutia**, a web development enthusiast from Indonesia who enjoys turning ideas into real, working web apps ᰔᩚ
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+- 🎓 &nbsp; Informatics Engineering student
+- 💻 &nbsp; Focused on **Laravel** & **JavaScript**
+- 🌱 &nbsp; Exploring **Python** & Data Analytics
+- ✨ &nbsp; Love clean UI, clean code, and good coffee ☕
+- 🤝 &nbsp; Open to internship / job opportunities & collaboration!
+
+<br clear="right"/>
+
+---
+
+## ✦ tech stack
+
+<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,python,mysql,git,github,vscode&theme=dark&perline=11" />
 </p>
+</div>
 
 <br>
 
@@ -81,6 +69,6 @@ CATATAN SEBELUM DIPAKAI:
 
 1. Ganti "mutiasyahra" di semua link jika username GitHub kamu berbeda.
 2. Ganti tanda "#" di Portfolio/LinkedIn/Email dengan link asli kamu.
-3. Semua statistik pakai tema "tokyonight" (biru gelap-ungu) biar seragam dan lebih modern - bisa diganti tema lain: dracula, radical, merko, gruvbox, dll (tinggal ganti nama theme di link-nya).
-4. Bagian "Profile Views" dan "Followers" otomatis update sendiri, nggak perlu setting tambahan.
+3. Nama di banner sudah disamakan jadi "Mutia Syahra" (sebelumnya sempat tertulis "Meutya" - typo).
+4. Sudah dihapus 1 typing effect yang dobel, sekarang cuma 1 di bagian atas.
 -->
