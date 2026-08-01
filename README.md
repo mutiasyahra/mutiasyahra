@@ -1,7 +1,8 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Hi%2C%20I'm%20Mutia%20Syahra%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Laravel%20%26%20JavaScript%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
-</p>
+<div align="center">
+<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:3d1278,100:7c3aed&height=280&section=header&text=mutia%20syahra&fontSize=72&fontColor=f0abfc&animation=fadeIn&fontAlignY=40&desc=✦%20web%20developer%20·%20creative%20coder%20·%20lifelong%20learner%20✦&descAlignY=62&descSize=18&descColor=c084fc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:3d1278,100:7c3aed&height=250&section=header&text=mutia%20syahra&fontSize=64&fontColor=f0abfc&animation=fadeIn&fontAlignY=40&desc=✦%20web%20developer%20·%20creative%20coder%20·%20lifelong%20learner%20✦&descAlignY=65&descSize=16&descColor=c084fc" />
+<br/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+clean+and+functional+web+apps;Laravel+%7C+JavaScript+%7C+Python+%7C+MySQL;Always+learning%2C+always+building" alt="Typing SVG" />
